@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm ####</h1>
-<h3 align="center">####</h3>
+<img src="header.png" />
+
+<p align="left">
+My nickname is Fah. I graduated in Bachelor of Science in Information Technology from KMUTT. <br />
+I am interested in the position of Software Tester. I am ready to learn new things, listen to advice and opinions from everyone, and work hard to develop my own potential and the company's.
+</p>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Naphat%20Nuansri-0866FF?logo=facebook">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
